@@ -10,7 +10,7 @@ This track focuses on the formal organization and validation of the existing "To
 4.  **Metadata Alignment**: Ensure the Table of Contents (TOC) and Thread summaries match the final manuscript content.
 
 ## Acceptance Criteria
-- All 13 `.md` files exist in `Desktop/創作靈感/文稿/`.
-- All 13 `.png` files exist in `Desktop/創作靈感/配圖/`.
+- All 13 `.md` files exist in `Desktop/散文創作/文稿/`.
+- All 13 `.png` files exist in `Desktop/散文創作/配圖/`.
 - Word count for each chapter is verified to be approximately 1200 Traditional Chinese characters.
 - `東京迷途_目錄.md` correctly references all chapters.

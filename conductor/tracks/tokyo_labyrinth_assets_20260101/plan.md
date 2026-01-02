@@ -1,7 +1,7 @@
 # Track Plan: Organize and Validate "Tokyo Labyrinth" Project Assets
 
 ## Phase 1: Structure and Inventory Verification
-- [x] Task: Audit the existing directory structure in `Desktop/創作靈感/`.
+- [x] Task: Audit the existing directory structure in `Desktop/散文創作/`.
 - [x] Task: List all files in `文稿/` and `配圖/` to ensure completeness (13 of each).
 - [x] Task: Conductor - User Manual Verification 'Structure and Inventory' (Protocol in workflow.md)
 
